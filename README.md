@@ -32,10 +32,10 @@ End-to-end data lakehouse project built on Databricks following the Medallion Ar
 
 - GitHub: https://github.com/devnkg/databricks-data-lakehouse
 
-### 2. E-commerce Lakehouse Platform
-End-to-end e-commerce data platform on Databricks using PySpark, Delta Lake, and Medallion architecture for bronze/silver/gold processing.
+### 2. FMCG Mergers and Acquisitions Lakehouse Pipeline	
+End-to-end Databricks lakehouse pipeline consolidating two FMCG companies' data after an acquisition (Bronze → Silver → Gold, PySpark, SQL, Genie).
 
-- GitHub: https://github.com/devnkg/ecommerce-lakehouse-platform
+- GitHub: https://github.com/devnkg/fmcg-ma-lakehouse-pipeline
 
 ### 3. YouTube Analytics Data Pipeline
 AWS-based analytics pipeline for processing large-scale YouTube datasets with ETL transformations, quality checks, and analytical insights.
